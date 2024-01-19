@@ -1,0 +1,35 @@
+commit 55b7c3199ba9abb4a99bc8d3306c0cb9ba49a92f
+Author: Ethan-Caracoglia <ethancaracoglia@gmail.com>
+Date:   Fri Jan 19 08:55:11 2024 -0500
+
+    deleted hello.txt
+
+commit bd421f3e78a38191f9b8461e561e5d4399aa10cb
+Author: Ethan-Caracoglia <ethancaracoglia@gmail.com>
+Date:   Fri Jan 19 08:53:04 2024 -0500
+
+    Converted the name of hello.txt to me.txt
+
+commit 2523882eae58297e4ded43b0314c98e6fa5658cf
+Author: Ethan-Caracoglia <ethancaracoglia@gmail.com>
+Date:   Fri Jan 19 08:49:55 2024 -0500
+
+    Filled out hello.txt
+
+commit 2b44c71b5d9c5c5dfe9b150004dea7877e42acfa
+Author: Ethan-Caracoglia <ethancaracoglia@gmail.com>
+Date:   Fri Jan 19 08:47:30 2024 -0500
+
+    Commit message
+
+commit e9fafe1d013b675f8374f98c5a7a7704e48e0a3f
+Author: Ethan-Caracoglia <ethancaracoglia@gmail.com>
+Date:   Fri Jan 19 08:44:40 2024 -0500
+
+    c
+
+commit 9f161f2cf26d39c24b005d84c55d7de67fc22d55
+Author: Ethan-Caracoglia <ethancaracoglia@gmail.com>
+Date:   Fri Jan 19 08:41:28 2024 -0500
+
+    added named file
